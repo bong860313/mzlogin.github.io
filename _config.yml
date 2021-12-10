@@ -4,10 +4,10 @@
 baseurl:
 url: https://bong860313.github.io/mzlogin.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: Bong's blog
+subtitle: "随笔 树洞 笔记"
+description: "Bong's blog：随笔 树洞 笔记"
+keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: bong860313/mzlogin.github.io
@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Bong
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: bong860313
+location: Guangzhou, China
+email: bong860313@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -70,9 +70,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+   -
+     href: /archives/
+     label: 归档
 
 #   -
 #     href: /open-source/
